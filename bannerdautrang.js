@@ -116,7 +116,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2KypdNl' target='_blank'><img src='https://lh4.googleusercontent.com/proxy/Juck_GqUJenFIVfJVNHxsZRTdi1NfChfYH6TQoFarJsq7qpa0556yN7lluIuBKJ7aj-slY-G2kf-_hKeHC-olOF-9ZQYokcBlSQxaRg-0RYMaVxiD4H3ghg=s0-d' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2KypdNl' target='_blank'><img src='https://lh4.googleusercontent.com/proxy/Juck_GqUJenFIVfJVNHxsZRTdi1NfChfYH6TQoFarJsq7qpa0556yN7lluIuBKJ7aj-slY-G2kf-_hKeHC-olOF-9ZQYokcBlSQxaRg-0RYMaVxiD4H3ghg=s0-d' width='700px'/><br/>Mâu cầu thang đẹp tại Hà Nội</a>. Cầu thang kính, cầu thang gỗ, cầu thang sắt, cầu thang inox <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
